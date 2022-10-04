@@ -1,0 +1,3242 @@
+[
+    {
+      "name": "특성캡슐",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ability-capsule.png",
+      "category": "아이템 보관",
+      "effect": "2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐."
+    },
+    {
+      "name": "스킬콜",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ability-urge.png",
+      "category": "전투 아이템",
+      "effect": "미라클슈터. 전투에서 사용하면 이 아이템은 특정 능력을 즉시 활성화합니다. 모든 능력이 이를 통해 활성화되는 것은 아니며 전투에 참가할 때 활성화되는 능력만 활성화됩니다. 비용은 3포인트입니다."
+    },
+    {
+      "name": "눈설왕나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/abomasite.png",
+      "category": "아이템 보관",
+      "effect": "눈설왕에게 지니게하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종."
+    },
+    {
+      "name": "앱솔나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/absolite.png",
+      "category": "아이템 보관",
+      "effect": "앱솔을 메가앱솔로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "구근",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/absorb-bulb.png",
+      "category": "아이템 보관",
+      "effect": "소모성 전구. 홀더가 물 속성 기술에 맞으면 SP 공격력이 상승합니다."
+    },
+    {
+      "name": "금강옥",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/adamant-orb.png",
+      "category": "아이템 보관",
+      "effect": "다이알가가 들고 있을 때 드래곤과 강철 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "주눅구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/adrenaline-orb.png",
+      "category": "아이템 보관",
+      "effect": "이를 사용하면 야생 포켓몬이 도움을 요청할 가능성이 높아집니다. 포켓몬이 들고 있으면 위협을 받을 때 속도가 증가합니다. 한 번만 사용할 수 있습니다."
+    },
+    {
+      "name": "프테라나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/aerodactylite.png",
+      "category": "아이템 보관",
+      "effect": "프테라를 메가프테라로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "보스로라나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/aggronite.png",
+      "category": "아이템 보관",
+      "effect": "보스로라를 메가보스로라로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "아바열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/aguav-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮으면 회복되지만 혼란을 일으킬 수 있습니다."
+    },
+    {
+      "name": "풍선",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/air-balloon.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 잡으면 포켓몬이 공중으로 떠오른다. 홀더를 공격하면 이 아이템이 터진다."
+    },
+    {
+      "name": "후디나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/alakazite.png",
+      "category": "아이템 보관",
+      "effect": "후딘을 메가후딘으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "알로라이z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/aloraichium-z.png",
+      "category": "아이템 보관",
+      "effect": "10만볼트를 배우고 있는 리전폼 라이츄가 전용 Z기술인 라이트닝서프라이드를 사용할 수 있게 된다."
+    },
+    {
+      "name": "파비코리나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/altarianite.png",
+      "category": "아이템 보관",
+      "effect": "파비코리를 메가파비코리로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "전룡나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ampharosite.png",
+      "category": "아이템 보관",
+      "effect": "전룡을 메가전룡으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "부적금화",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/amulet-coin.png",
+      "category": "아이템 보관",
+      "effect": "보유하면 상금이 두 배로 늘어납니다."
+    },
+    {
+      "name": "해독제",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/antidote.png",
+      "category": "의학",
+      "effect": "스프레이 형태의 약. 포켓몬 1마리의 독 효과를 해제한다."
+    },
+    {
+      "name": "규살열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/apicot-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 특수 방어력을 높입니다."
+    },
+    {
+      "name": "방패의화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/armor-fossil.png",
+      "category": "일반 항목",
+      "effect": "땅에 살았던 선사시대 포켓몬의 화석. 목걸이의 일부로 보입니다."
+    },
+    {
+      "name": "배리열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/aspear-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 해동됩니다."
+    },
+    {
+      "name": "돌격조끼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/assault-vest.png",
+      "category": "아이템 보관",
+      "effect": "특수방어력을 올리지만 상태기동의 사용을 막는다."
+    },
+    {
+      "name": "다부니나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/audinite.png",
+      "category": "아이템 보관",
+      "effect": "다부니를 메가다부니로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "잠깨는약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/awakening.png",
+      "category": "의학",
+      "effect": "스프레이 형태의 약. 포켓몬을 잠에서 깨어나게 한다."
+    },
+    {
+      "name": "바리비열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/babiri-berry.png",
+      "category": "딸기",
+      "effect": "소유포켓몬에 대한 초강력 강철타입 공격을 약화시킨다."
+    },
+    {
+      "name": "향기버섯",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/balm-mushroom.png",
+      "category": "일반 항목",
+      "effect": "좋은 향기를 풍기는 희귀 버섯. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "다크펫나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/banettite.png",
+      "category": "아이템 보관",
+      "effect": "다크펫을 메가다크펫으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "바닷가유리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/beach-glass.png",
+      "category": "일반 항목",
+      "effect": "유색 유리 조각. 파도가 가장자리를 둥글게 처리했습니다. 만지면 약간 거칠습니다."
+    },
+    {
+      "name": "울트라볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/beast-ball.png",
+      "category": "포켓볼",
+      "effect": "울트라 비스트를 잡기 위해 고안된 특수 포켓볼입니다. 다른 사람을 잡기에는 성공률이 낮습니다."
+    },
+    {
+      "name": "독침붕나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/beedrillite.png",
+      "category": "아이템 보관",
+      "effect": "독침붕을 메가독침붕으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "루베열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/belue-berry.png",
+      "category": "딸기",
+      "effect": "지니게 한 채 자연의은혜를 사용하면 100 위력(5세대까지는 80)의 전기 타입 기술이 나간다."
+    },
+    {
+      "name": "나무열매쥬스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/berry-juice.png",
+      "category": "의학",
+      "effect": "순수 100% 열매 주스. 포켓몬 1마리의 HP를 단 20포인트 회복한다."
+    },
+    {
+      "name": "큰말라사다",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/big-malasada.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "큰버섯",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/big-mushroom.png",
+      "category": "일반 항목",
+      "effect": "크고 희귀한 버섯입니다. 수집가들이 많이 찾는 버섯입니다."
+    },
+    {
+      "name": "큰금구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/big-nugget.png",
+      "category": "일반 항목",
+      "effect": "광택이 나는 큰 순금 덩어리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "큰진주",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/big-pearl.png",
+      "category": "일반 항목",
+      "effect": "예쁜 은빛으로 반짝이는 꽤 큰 진주. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "큰뿌리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/big-root.png",
+      "category": "아이템 보관",
+      "effect": "HP를 훔치는 동작에서 더 많은 HP를 회복합니다."
+    },
+    {
+      "name": "조임밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/binding-band.png",
+      "category": "아이템 보관",
+      "effect": "잡으면 결속력이 증가하는 밴드가 움직입니다."
+    },
+    {
+      "name": "검은규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/black-apricorn.png",
+      "category": "일반 항목",
+      "effect": "검은 살구 형용할 수 없는 냄새가 난다."
+    },
+    {
+      "name": "검은띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/black-belt.png",
+      "category": "아이템 보관",
+      "effect": "격투 타입 기술의 위력을 높입니다."
+    },
+    {
+      "name": "검정비드로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/black-flute.png",
+      "category": "일반 항목",
+      "effect": "검은 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "검은안경",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/black-glasses.png",
+      "category": "아이템 보관",
+      "effect": "다크 타입 기술의 위력을 증가시킵니다."
+    },
+    {
+      "name": "검은진흙",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/black-sludge.png",
+      "category": "아이템 보관",
+      "effect": "독 타입 포켓몬의 HP를 서서히 회복시키는 홀드 아이템. 다른 모든 타입에게 데미지를 준다."
+    },
+    {
+      "name": "거북왕나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blastoisinite.png",
+      "category": "아이템 보관",
+      "effect": "거북왕을 메가거북왕으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "번치코나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blazikenite.png",
+      "category": "아이템 보관",
+      "effect": "번치코를 메가번치코로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "파란규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blue-apricorn.png",
+      "category": "일반 항목",
+      "effect": "푸른 살구입니다. 약간 풀 냄새가 납니다."
+    },
+    {
+      "name": "파랑비드로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blue-flute.png",
+      "category": "일반 항목",
+      "effect": "파란 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "파랑밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blue-scarf.png",
+      "category": "일반 항목",
+      "effect": "콘테스트에서 보유자의 미인 측면을 높입니다."
+    },
+    {
+      "name": "파랑조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/blue-shard.png",
+      "category": "일반 항목",
+      "effect": "작은 파란색 파편. 오래 전에 만들어진 일종의 도구에서 나온 것 같습니다."
+    },
+    {
+      "name": "블리열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/bluk-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "은왕관",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/bottle-cap.png",
+      "category": "일반 항목",
+      "effect": "하이퍼 트레이닝에서 하나의 IV 통계를 최대화합니다."
+    },
+    {
+      "name": "반짝가루",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/bright-powder.png",
+      "category": "아이템 보관",
+      "effect": "상대의 정확도를 낮춥니다."
+    },
+    {
+      "name": "벌레주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/bug-gem.png",
+      "category": "아이템 보관",
+      "effect": "벌레형 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "버그메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/bug-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 이동의 다중 공격을 벌레 유형으로 변경합니다."
+    },
+    {
+      "name": "벌레z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/buginium-z.png",
+      "category": "아이템 보관",
+      "effect": "벌레타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "블레이즈카세트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/burn-drive.png",
+      "category": "아이템 보관",
+      "effect": "게노세크트가 들고 있을 때 테크노버스터를 화염 유형 기술로 변경합니다."
+    },
+    {
+      "name": "화상치료제",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/burn-heal.png",
+      "category": "의학",
+      "effect": "스프레이 형태의 약. 화상을 입은 포켓몬 한 마리를 치료한다."
+    },
+    {
+      "name": "calciu",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/calcium.png",
+      "category": "의학",
+      "effect": "특수 공격 노력치가 10 증가합니다."
+    },
+    {
+      "name": "폭타나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cameruptite.png",
+      "category": "아이템 보관",
+      "effect": "폭타를 메가폭타로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "알칼로이드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/carbos.png",
+      "category": "의학",
+      "effect": "속도 노력치가 10 증가합니다."
+    },
+    {
+      "name": "구름아이스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/casteliacone.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "충전지",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cell-battery.png",
+      "category": "아이템 보관",
+      "effect": "소모성 배터리입니다. 홀더가 전기 기술에 맞으면 공격력이 상승합니다."
+    },
+    {
+      "name": "초크돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/chalky-stone.png",
+      "category": "일반 항목",
+      "effect": "길 가장자리에서 주운 작은 희끄무레한 돌."
+    },
+    {
+      "name": "목탄",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/charcoal.png",
+      "category": "아이템 보관",
+      "effect": "불 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "리자몽나이트x",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/charizardite-x.png",
+      "category": "아이템 보관",
+      "effect": "전투 중에 리자몽을 메가리자몽X로 활성화합니다."
+    },
+    {
+      "name": "리자몽나이트y",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/charizardite-y.png",
+      "category": "아이템 보관",
+      "effect": "전투 중에 리자몽을 메가리자몽Y로 활성화합니다."
+    },
+    {
+      "name": "루미열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/charti-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초효율의 바위 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "버치열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cheri-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 마비에서 회복됩니다."
+    },
+    {
+      "name": "프레셔스볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cherish-ball.png",
+      "category": "포켓볼",
+      "effect": "어떤 행사를 기념하기 위해 특별히 제작된 아주 희귀한 포켓볼입니다."
+    },
+    {
+      "name": "유루열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/chesto-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 수면에서 회복됩니다."
+    },
+    {
+      "name": "카리열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/chilan-berry.png",
+      "category": "딸기",
+      "effect": "이 열매를 들고 있는 포켓몬에 대한 일반형 공격을 약화시킵니다."
+    },
+    {
+      "name": "프리즈카세트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/chill-drive.png",
+      "category": "아이템 보관",
+      "effect": "게노세크트가 들고 있을 때 테크노버스터를 얼음 유형 기술로 변경합니다."
+    },
+    {
+      "name": "구애머리띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/choice-band.png",
+      "category": "아이템 보관",
+      "effect": "공격력을 높이지만 한 가지 기술만 사용할 수 있습니다."
+    },
+    {
+      "name": "구애스카프",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/choice-scarf.png",
+      "category": "아이템 보관",
+      "effect": "속도를 높이지만 한 번의 이동만 사용할 수 있습니다."
+    },
+    {
+      "name": "구애안경",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/choice-specs.png",
+      "category": "아이템 보관",
+      "effect": "특수 공격을 올리지만 한 가지 기술만 사용할 수 있습니다."
+    },
+    {
+      "name": "로플열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/chople-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초효율의 격투형 공격을 약화시킨다."
+    },
+    {
+      "name": "발톱화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/claw-fossil.png",
+      "category": "일반 항목",
+      "effect": "바다에 살았던 고대 포켓몬의 화석. 발톱의 일부로 보입니다."
+    },
+    {
+      "name": "순결의부적",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cleanse-tag.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 파티의 첫 번째 소유자인 경우 야생 포켓몬을 멀리하는 데 도움이 됩니다."
+    },
+    {
+      "name": "정신력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/clever-wing.png",
+      "category": "의학",
+      "effect": "특수방어 노력치가 1 증가합니다."
+    },
+    {
+      "name": "바코열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/coba-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초능력 비행 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "마코열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/colbur-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초강력 암흑 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "아크로마머신",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/colress-machine.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬의 잠재력을 짜내는 특수 장치. 불완전한 프로토타입입니다."
+    },
+    {
+      "name": "혜성조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/comet-shard.png",
+      "category": "일반 항목",
+      "effect": "혜성이 접근했을 때 땅에 떨어진 파편. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "수숙열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cornn-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "마음의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/courage-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 방어 능력치를 1 증가시킵니다."
+    },
+    {
+      "name": "마음의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/courage-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 방어 능력치를 증가시킵니다."
+    },
+    {
+      "name": "마음의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/courage-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 방어 능력치를 증가시킵니다."
+    },
+    {
+      "name": "덮개화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/cover-fossil.png",
+      "category": "일반 항목",
+      "effect": "고대에 바다에 살았던 고대 포켓몬의 화석. 등의 일부로 보인다."
+    },
+    {
+      "name": "애슈열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/custap-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 보유자가 먼저 이동할 수 있습니다."
+    },
+    {
+      "name": "축축이비료",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/damp-mulch.png",
+      "category": "일반 항목",
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "축축한바위",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/damp-rock.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬 보유 아이템으로 보유자가 사용하는 레인 댄스의 이동 시간을 연장합니다."
+    },
+    {
+      "name": "악주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dark-gem.png",
+      "category": "아이템 보관",
+      "effect": "다크 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "다크메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dark-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 어둠 유형으로 변경합니다."
+    },
+    {
+      "name": "악z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/darkinium-z.png",
+      "category": "아이템 보관",
+      "effect": "악타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "각성의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dawn-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "모크나이퍼z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/decidium-z.png",
+      "category": "아이템 보관",
+      "effect": "그림자꿰매기를 배우고 있는 모크나이퍼가 전용 Z기술인 섀도애로우즈스트라이크를 사용할 수 있게 된다."
+    },
+    {
+      "name": "심해의비늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/deep-sea-scale.png",
+      "category": "아이템 보관",
+      "effect": "진주몽이 들고 있을 때 특수 방어력이 증가합니다. 아이템을 들고 거래할 때 진주몽을 진화시킵니다."
+    },
+    {
+      "name": "심해의이빨",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/deep-sea-tooth.png",
+      "category": "아이템 보관",
+      "effect": "진주몽이 들고 있을 때 특수 공격이 증가합니다. 아이템을 들고 거래할 때 진주몽을 진화시킵니다."
+    },
+    {
+      "name": "빨간실",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/destiny-knot.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 쥐고 있는 길고 가느다란 선홍색 끈. 소지자가 반하면 적도 반하게 된다."
+    },
+    {
+      "name": "디안시나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/diancite.png",
+      "category": "아이템 보관",
+      "effect": "디안시를 메가디안시로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "크리티컬커터",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dire-hit.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 치명타율을 높입니다."
+    },
+    {
+      "name": "크리티컬커터2",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dire-hit-2.png",
+      "category": "전투 아이템",
+      "effect": "전투에서 포켓몬의 치명타율을 높입니다."
+    },
+    {
+      "name": "크리티컬커터3",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dire-hit-3.png",
+      "category": "전투 아이템",
+      "effect": "전투에서 포켓몬의 치명타율을 크게 높입니다."
+    },
+    {
+      "name": "바겐세일티켓",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/discount-coupon.png",
+      "category": "일반 항목",
+      "effect": "부티크에서 쇼핑할 때 할인된 가격으로 상품을 구매할 수 있는 특별 쿠폰입니다."
+    },
+    {
+      "name": "다이브볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dive-ball.png",
+      "category": "포켓볼",
+      "effect": "수중에서 사는 포켓몬에게 특히 잘 작동하는 약간 다른 포켓볼."
+    },
+    {
+      "name": "유전자쐐기",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dna-splicers.png",
+      "category": "일반 항목",
+      "effect": "이 도구를 큐레무와 제크로무에게 사용하면 블랙큐레무로, 큐레무와 레시라무에게 사용하면 화이트큐레무로 폼체인지한다."
+    },
+    {
+      "name": "껍질화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dome-fossil.png",
+      "category": "일반 항목",
+      "effect": "바다에 살았던 고대 포켓몬의 화석. 껍데기의 일부로 보입니다."
+    },
+    {
+      "name": "아쿠아카세트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/douse-drive.png",
+      "category": "아이템 보관",
+      "effect": "게노세크트가 들고 있을 때 테크노버스터를 물 타입 기술로 변경합니다."
+    },
+    {
+      "name": "용의플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/draco-plate.png",
+      "category": "아이템 보관",
+      "effect": "드래곤 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 드래곤으로 변경합니다."
+    },
+    {
+      "name": "용의이빨",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dragon-fang.png",
+      "category": "아이템 보관",
+      "effect": "드래곤 계열 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "드래곤주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dragon-gem.png",
+      "category": "아이템 보관",
+      "effect": "드래곤 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "드래곤메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dragon-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 드래곤 유형으로 변경합니다."
+    },
+    {
+      "name": "용의비늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dragon-scale.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 시드라를 진화시킵니다."
+    },
+    {
+      "name": "드래곤z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dragonium-z.png",
+      "category": "아이템 보관",
+      "effect": "드래곤타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "공포플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dread-plate.png",
+      "category": "아이템 보관",
+      "effect": "어둠 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 다크 타입으로 변경합니다."
+    },
+    {
+      "name": "드림볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dream-ball.png",
+      "category": "포켓볼",
+      "effect": "안트레 숲의 가방에 뜬금없이 나타나는 특별한 포켓볼. 어떤 포켓몬이든 잡을 수 있다."
+    },
+    {
+      "name": "라이브캐스터",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/xtransceiver.png",
+      "category": "아이템 보관",
+      "effect": "님바사 시티 놀이공원에서 발견된 Xtransceiver. 소년의 것 같습니다."
+    },
+    {
+      "name": "괴상한패치",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dubious-disc.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 폴리곤2로 진화합니다."
+    },
+    {
+      "name": "두리열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/durin-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "다크볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dusk-ball.png",
+      "category": "포켓볼",
+      "effect": "야간이나 동굴과 같은 어두운 곳에서 야생 포켓몬을 더 쉽게 잡을 수 있도록 하는 다소 다른 포켓볼."
+    },
+    {
+      "name": "어둠의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/dusk-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "대지플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/earth-plate.png",
+      "category": "아이템 보관",
+      "effect": "지상 기술의 위력이 증가합니다. 아르세우스의 유형을 지상으로 변경합니다."
+    },
+    {
+      "name": "이브이z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/eevium-z.png",
+      "category": "아이템 보관",
+      "effect": "뒀다쓰기를 배우고 있는 이브이가 전용 Z기술인 나인이볼부스트를 사용할 수 있게 된다."
+    },
+    {
+      "name": "탈출버튼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/eject-button.png",
+      "category": "아이템 보관",
+      "effect": "홀더가 공격을 받으면 파티의 다른 포켓몬으로 전환됩니다."
+    },
+    {
+      "name": "에레키부스터",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/electirizer.png",
+      "category": "일반 항목",
+      "effect": "에레브에게 지니게 한뒤 통신교환을 하면 에레키블으로 진화한다."
+    },
+    {
+      "name": "전기주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/electric-gem.png",
+      "category": "아이템 보관",
+      "effect": "전기 계열 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "일렉트릭메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/electric-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 해당 기술의 다중 공격을 전기 유형으로 변경합니다."
+    },
+    {
+      "name": "일렉트릭시드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/electric-seed.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 전기 지형에 대한 방어력을 증가시킨다. 한 번만 사용할 수 있다."
+    },
+    {
+      "name": "전기z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/electrium-z.png",
+      "category": "아이템 보관",
+      "effect": "전기타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "pp에이더",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/elixir.png",
+      "category": "의학",
+      "effect": "대상 포켓몬이 배운 모든 기술의 PP를 각각 10포인트씩 회복합니다."
+    },
+    {
+      "name": "힘의가루",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/energy-powder.png",
+      "category": "의학",
+      "effect": "HP를 60 회복하지만 우정을 낮춥니다."
+    },
+    {
+      "name": "힘의뿌리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/energy-root.png",
+      "category": "의학",
+      "effect": "120 HP를 회복하지만 우정을 낮춥니다."
+    },
+    {
+      "name": "의문열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/enigma-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 초능력 공격을 받으면 HP를 회복합니다."
+    },
+    {
+      "name": "동굴탈출로프",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/escape-rope.png",
+      "category": "일반 항목",
+      "effect": "길고 튼튼한 밧줄입니다. 동굴이나 던전에서 즉시 탈출할 때 사용하세요."
+    },
+    {
+      "name": "pp에이드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ether.png",
+      "category": "의학",
+      "effect": "포켓몬이 선택한 기술의 PP를 최대 10점 회복합니다."
+    },
+    {
+      "name": "변함없는돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/everstone.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 이 특이한 돌을 들고 있는 포켓몬은 진화하지 못한다."
+    },
+    {
+      "name": "진화의휘석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/eviolite.png",
+      "category": "아이템 보관",
+      "effect": "신비한 진화 덩어리. 들고 있으면 아직 진화할 수 있는 포켓몬의 방어력과 SP 방어력이 올라갑니다."
+    },
+    {
+      "name": "달인의띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/expert-belt.png",
+      "category": "아이템 보관",
+      "effect": "매우 효과적인 움직임의 위력을 증가시킵니다."
+    },
+    {
+      "name": "페어리z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fairium-z.png",
+      "category": "아이템 보관",
+      "effect": "페어리타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "페어리주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fairy-gem.png",
+      "category": "일반 항목",
+      "effect": "페어리 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "페어리메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fairy-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 요정 유형으로 변경합니다."
+    },
+    {
+      "name": "스피드볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fast-ball.png",
+      "category": "포켓볼",
+      "effect": "빨리 도망치는 포켓몬을 잡기 쉽게 해주는 포켓볼."
+    },
+    {
+      "name": "페스티켓",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/festival-ticket.png",
+      "category": "일반 항목",
+      "effect": "페스티벌 플라자에서 미션을 진행할 수 있는 티켓입니다."
+    },
+    {
+      "name": "격투주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fighting-gem.png",
+      "category": "아이템 보관",
+      "effect": "격투 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "파이팅메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fighting-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 격투 유형으로 변경합니다."
+    },
+    {
+      "name": "격투z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fightinium-z.png",
+      "category": "아이템 보관",
+      "effect": "격투타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "무화열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/figy-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮으면 회복되지만 혼란을 일으킬 수 있습니다."
+    },
+    {
+      "name": "불꽃주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fire-gem.png",
+      "category": "아이템 보관",
+      "effect": "불타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "파이어메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fire-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 해당 기술의 다중 공격을 화염 유형으로 변경합니다."
+    },
+    {
+      "name": "불꽃의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fire-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "불꽃z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/firium-z.png",
+      "category": "아이템 보관",
+      "effect": "불꽃타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "주먹플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fist-plate.png",
+      "category": "아이템 보관",
+      "effect": "격투 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 격투 타입으로 변경합니다."
+    },
+    {
+      "name": "화염구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/flame-orb.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 배틀에서 홀더를 화상을 입히는 기괴한 오브이다."
+    },
+    {
+      "name": "불구슬플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/flame-plate.png",
+      "category": "아이템 보관",
+      "effect": "불 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 화염으로 변경합니다."
+    },
+    {
+      "name": "가벼운돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/float-stone.png",
+      "category": "아이템 보관",
+      "effect": "매우 가벼운 돌. 들고 있으면 포켓몬의 무게가 줄어듭니다."
+    },
+    {
+      "name": "에나비꼬리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fluffy-tail.png",
+      "category": "일반 항목",
+      "effect": "포켓몬을 유인하는 아이템. 야생 포켓몬과의 전투에서 도망칠 때 사용하십시오."
+    },
+    {
+      "name": "비행주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/flying-gem.png",
+      "category": "아이템 보관",
+      "effect": "비행 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "플라잉메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/flying-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 비행 유형으로 변경합니다."
+    },
+    {
+      "name": "비행z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/flyinium-z.png",
+      "category": "아이템 보관",
+      "effect": "비행타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "기합의머리띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/focus-band.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 소지자는 KO 공격을 견뎌낼 수 있으며 HP는 1만 남습니다."
+    },
+    {
+      "name": "기합의띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/focus-sash.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템입니다. HP가 가득 차면 1회의 KO 공격을 견디고 1 HP가 남습니다."
+    },
+    {
+      "name": "맛있는물",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/fresh-water.png",
+      "category": "의학",
+      "effect": "30 HP를 회복합니다."
+    },
+    {
+      "name": "프랜드볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/friend-ball.png",
+      "category": "포켓볼",
+      "effect": "포켓몬을 더 친근하게 만드는 포켓볼."
+    },
+    {
+      "name": "만병통치약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/full-heal.png",
+      "category": "의학",
+      "effect": "스프레이 형태의 약입니다. 단일 포켓몬의 모든 상태 문제를 치료합니다."
+    },
+    {
+      "name": "만복향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/full-incense.png",
+      "category": "아이템 보관",
+      "effect": "홀더는 항상 마지막에 공격합니다. Snorlax를 사육하면 Munchlax가 생성됩니다."
+    },
+    {
+      "name": "회복약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/full-restore.png",
+      "category": "의학",
+      "effect": "하나의 포켓몬의 HP를 완전히 회복하고 상태 이상을 치료하는 약입니다."
+    },
+    {
+      "name": "엘레이드나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/galladite.png",
+      "category": "아이템 보관",
+      "effect": "엘레이드를 메가엘레이드로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "용아열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ganlon-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 방어력을 높입니다."
+    },
+    {
+      "name": "한카리아스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/garchompite.png",
+      "category": "아이템 보관",
+      "effect": "한카리아스를 메가한카리아스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "가디안나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/gardevoirite.png",
+      "category": "아이템 보관",
+      "effect": "가디안을 메가가디안으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "팬텀나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/gengarite.png",
+      "category": "아이템 보관",
+      "effect": "팬텀을 메가팬텀으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "지력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/genius-wing.png",
+      "category": "의학",
+      "effect": "특수 공격 노력치가 1 증가합니다."
+    },
+    {
+      "name": "고스트주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ghost-gem.png",
+      "category": "아이템 보관",
+      "effect": "고스트 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "고스트메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ghost-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 이동의 다중 공격을 고스트 유형으로 변경합니다."
+    },
+    {
+      "name": "고스트z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ghostium-z.png",
+      "category": "아이템 보관",
+      "effect": "고스트타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "얼음귀신나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/glalitite.png",
+      "category": "아이템 보관",
+      "effect": "얼음귀신을 메가얼음귀신으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "금왕관",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/gold-bottle-cap.png",
+      "category": "일반 항목",
+      "effect": "하이퍼 트레이닝에서 포켓몬의 모든 IV 통계를 최대화합니다."
+    },
+    {
+      "name": "황금나나열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/golden-nanab-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬 GO, 레츠고 시리즈, 레전드 아르세우스에서는 야생 포켓몬을 얌전하게 만드는 효과를 가지고 있다."
+    },
+    {
+      "name": "황금파인열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/golden-pinap-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬 GO와 레츠고 시리즈에서는 야생 포켓몬을 포획했을 때 받는 사탕이 늘어나는 효과를 가지고 있다."
+    },
+    {
+      "name": "황금라즈열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/golden-razz-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬 GO와 레츠고 시리즈, 레전드 아르세우스에서는 야생 포켓몬에게 먹였을 때 포획률을 높여주는 효과를 가지고 있다. "
+    },
+    {
+      "name": "끈적끈적비료",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/gooey-mulch.png",
+      "category": "일반 항목",
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "풀주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grass-gem.png",
+      "category": "아이템 보관",
+      "effect": "풀 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "잔디메일",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grass-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 이동의 다중 공격을 풀 유형으로 변경합니다."
+    },
+    {
+      "name": "풀z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grassium-z.png",
+      "category": "아이템 보관",
+      "effect": "풀타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "그래스시드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grassy-seed.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 초원의 방어력을 올려준다. 한 번만 사용할 수 있다."
+    },
+    {
+      "name": "수퍼볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/great-ball.png",
+      "category": "포켓볼",
+      "effect": "표준 포켓볼보다 더 높은 포켓몬 포획률을 제공하는 우수한 고성능 볼입니다."
+    },
+    {
+      "name": "초록규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/green-apricorn.png",
+      "category": "일반 항목",
+      "effect": "녹색 살구입니다. 신비하고 향기로운 냄새가 납니다."
+    },
+    {
+      "name": "초록밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/green-scarf.png",
+      "category": "일반 항목",
+      "effect": "콘테스트에서 보유자의 똑똑한 면모를 높입니다."
+    },
+    {
+      "name": "초록조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/green-shard.png",
+      "category": "일반 항목",
+      "effect": "작은 녹색 파편. 오래 전에 만들어진 일종의 도구에서 나온 것 같습니다."
+    },
+    {
+      "name": "또뽀열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grepa-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 특수 방어 노력치는 감소합니다."
+    },
+    {
+      "name": "끈기갈고리손톱",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grip-claw.png",
+      "category": "아이템 보관",
+      "effect": "바인드 및 랩과 같은 다중 턴 공격의 지속 시간을 연장하는 포켓몬이 들고 있는 아이템입니다."
+    },
+    {
+      "name": "백금옥",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/griseous-orb.png",
+      "category": "아이템 보관",
+      "effect": "기라티나에게 들고 있을 때 드래곤, 고스트 타입 기술의 위력이 증가하고 오리진 폼으로 변경됩니다."
+    },
+    {
+      "name": "땅주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ground-gem.png",
+      "category": "아이템 보관",
+      "effect": "지상 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "그라운드메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ground-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 이동의 다중 공격을 지상 유형으로 변경합니다."
+    },
+    {
+      "name": "땅z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/groundium-z.png",
+      "category": "아이템 보관",
+      "effect": "땅타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "무럭무럭비료",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/growth-mulch.png",
+      "category": "일반 항목",
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "더러운손수건",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/grubby-hanky.png",
+      "category": "아이템 보관",
+      "effect": "칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다."
+    },
+    {
+      "name": "이펙트가드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/guard-spec.png",
+      "category": "전투 아이템",
+      "effect": "5턴 동안 능력치 감소를 방지합니다."
+    },
+    {
+      "name": "갸라도스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/gyaradosite.png",
+      "category": "아이템 보관",
+      "effect": "갸라도스를 메가갸라도스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "하반열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/haban-berry.png",
+      "category": "딸기",
+      "effect": "손에 들고 있는 포켓몬에 대한 초효율의 드래곤 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "딱딱한돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/hard-stone.png",
+      "category": "아이템 보관",
+      "effect": "바위 타입 기술의 위력을 증가시킵니다."
+    },
+    {
+      "name": "힐볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heal-ball.png",
+      "category": "포켓볼",
+      "effect": "잡은 포켓몬의 HP를 회복하고 상태 이상을 없애는 회복용 포켓볼."
+    },
+    {
+      "name": "만능가루",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heal-powder.png",
+      "category": "의학",
+      "effect": "모든 상태 문제를 치료하지만 우정을 낮춥니다."
+    },
+    {
+      "name": "기력의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/health-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 HP를 1 증가시킵니다."
+    },
+    {
+      "name": "기력의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/health-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 HP를 증가시킵니다."
+    },
+    {
+      "name": "기력의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/health-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 HP를 증가시킵니다."
+    },
+    {
+      "name": "체력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/health-wing.png",
+      "category": "의학",
+      "effect": "HP 노력치를 1 증가시킵니다."
+    },
+    {
+      "name": "하트비늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heart-scale.png",
+      "category": "일반 항목",
+      "effect": "매우 희귀한 하트 모양의 예쁜 비늘입니다. 무지개 색으로 희미하게 빛납니다."
+    },
+    {
+      "name": "뜨거운바위",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heat-rock.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬 보유 아이템으로 보유자가 사용하는 써니 데이의 이동 시간을 연장합니다."
+    },
+    {
+      "name": "헤비볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heavy-ball.png",
+      "category": "포켓볼",
+      "effect": "매우 무거운 포켓몬을 잡기 위한 포켓볼입니다."
+    },
+    {
+      "name": "조개화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/helix-fossil.png",
+      "category": "일반 항목",
+      "effect": "바다에 살았던 고대 포켓몬의 화석. 조개껍데기의 일부로 보입니다."
+    },
+    {
+      "name": "헤라크로스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/heracronite.png",
+      "category": "아이템 보관",
+      "effect": "헤라크로스를 메가헤라크로스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "로매열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/hondew-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 특수 공격 노력치는 감소합니다."
+    },
+    {
+      "name": "달콤한꿀",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/honey.png",
+      "category": "일반 항목",
+      "effect": "풀, 동굴, 특수 나무에 사용하면 야생 포켓몬을 끌어들이는 향긋한 향이 나는 달콤한 꿀입니다."
+    },
+    {
+      "name": "칼로스엠블럼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/honor-of-kalos.png",
+      "category": "아이템 보관",
+      "effect": "칼로스 지역을 위해 위대한 일을 한 사람에게만 주어지는 귀중한 상징입니다."
+    },
+    {
+      "name": "헬가나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/houndoominite.png",
+      "category": "아이템 보관",
+      "effect": "헬가를 메가헬가로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "맥스업",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/hp-up.png",
+      "category": "의학",
+      "effect": "HP 노력치가 10 증가합니다."
+    },
+    {
+      "name": "고급상처약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/hyper-potion.png",
+      "category": "의학",
+      "effect": "120 HP를 회복합니다."
+    },
+    {
+      "name": "파야열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/iapapa-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮으면 회복되지만 혼란을 일으킬 수 있습니다."
+    },
+    {
+      "name": "얼음상태치료제",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ice-heal.png",
+      "category": "의학",
+      "effect": "스프레이형 약. 얼어붙은 포켓몬을 해동시킨다."
+    },
+    {
+      "name": "아이스메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ice-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 얼음 유형으로 변경합니다."
+    },
+    {
+      "name": "얼음의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ice-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "고드름플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/icicle-plate.png",
+      "category": "아이템 보관",
+      "effect": "얼음 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 얼음으로 변경합니다."
+    },
+    {
+      "name": "차가운바위",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/icy-rock.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬 보유 아이템으로 홀더가 사용하는 이동 우박의 지속 시간을 연장합니다."
+    },
+    {
+      "name": "어흥염z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/incinium-z.png",
+      "category": "아이템 보관",
+      "effect": "DD래리어트를 배우고 있는 어흥염이 전용 Z기술인 하이퍼다크크러셔를 사용할 수 있게 된다."
+    },
+    {
+      "name": "비단벌레플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/insect-plate.png",
+      "category": "아이템 보관",
+      "effect": "벌레 유형 기술의 위력이 증가합니다. 아르세우스의 유형을 벌레로 변경합니다."
+    },
+    {
+      "name": "대단할듯한돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/intriguing-stone.png",
+      "category": "아이템 보관",
+      "effect": "어떤 사람에게는 가치 있는 것처럼 보일 수도 있는 다소 이상한 돌입니다. 보는 사람의 눈에는 모든 것이 달려 있습니다."
+    },
+    {
+      "name": "사포닌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/iron.png",
+      "category": "의학",
+      "effect": "방어 노력치가 10 증가합니다."
+    },
+    {
+      "name": "검은철구",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/iron-ball.png",
+      "category": "아이템 보관",
+      "effect": "속도를 줄이는 포켓몬이 들고 있는 아이템입니다. 비행 유형과 공중에 떠 있는 홀더를 지상 이동에 취약하게 만듭니다."
+    },
+    {
+      "name": "강철플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/iron-plate.png",
+      "category": "아이템 보관",
+      "effect": "강철 기술의 위력이 증가합니다. 아르세우스의 유형을 강철로 변경합니다."
+    },
+    {
+      "name": "아이템드롭",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/item-drop.png",
+      "category": "전투 아이템",
+      "effect": "사용하면 아군 포켓몬이 들고 있는 아이템을 떨어뜨립니다."
+    },
+    {
+      "name": "아이템콜",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/item-urge.png",
+      "category": "전투 아이템",
+      "effect": "사용하면 아군 포켓몬이 들고 있는 아이템을 사용합니다."
+    },
+    {
+      "name": "자보열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/jaboca-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 물리 공격이 착지하면 공격자도 피해를 입습니다."
+    },
+    {
+      "name": "캥카나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kangaskhanite.png",
+      "category": "아이템 보관",
+      "effect": "캥카를 메가캥카로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "수불열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kasib-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 매우 효과적인 고스트 유형 공격을 약화시킵니다."
+    },
+    {
+      "name": "으름열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kebia-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초효과의 독 계열 공격을 약화시킵니다."
+    },
+    {
+      "name": "악키열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kee-berry.png",
+      "category": "딸기",
+      "effect": "이 베리는 포켓몬이 들고 있을 경우 물리 공격을 받으면 방어력이 증가합니다."
+    },
+    {
+      "name": "시마열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kelpsy-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 공격 노력치는 감소합니다."
+    },
+    {
+      "name": "짜랑고우거z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/kommonium-z.png",
+      "category": "아이템 보관",
+      "effect": "스케일노이즈를 배우고 있는 짜랑고우거가 전용 Z기술인 브레이징소울비트를 사용할 수 있게 된다."
+    },
+    {
+      "name": "느림보꼬리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lagging-tail.png",
+      "category": "아이템 보관",
+      "effect": "홀더는 항상 마지막에 공격합니다."
+    },
+    {
+      "name": "랑사열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lansat-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 치명타율이 증가합니다."
+    },
+    {
+      "name": "라티아스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/latiasite.png",
+      "category": "아이템 보관",
+      "effect": "라티아스를 메가라티아스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "라티오스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/latiosite.png",
+      "category": "아이템 보관",
+      "effect": "라티오스를 메가라티오스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "용암전병",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lava-cookie.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "무사태평향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lax-incense.png",
+      "category": "아이템 보관",
+      "effect": "상대의 정확도를 낮춥니다. Wobbuffet을 사육하면 Wynaut가 생성됩니다."
+    },
+    {
+      "name": "리프의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/leaf-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "먹다남은음식",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/leftovers.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 전투 중에 홀더의 HP가 서서히 회복됩니다."
+    },
+    {
+      "name": "후르츠밀크",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lemonade.png",
+      "category": "의학",
+      "effect": "70 HP를 회복합니다."
+    },
+    {
+      "name": "과사열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/leppa-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 기술의 PP를 10만큼 회복합니다."
+    },
+    {
+      "name": "레벨볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/level-ball.png",
+      "category": "포켓볼",
+      "effect": "자신보다 낮은 레벨의 포켓몬을 잡기 위한 포켓볼."
+    },
+    {
+      "name": "치리열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/liechi-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 공격력을 높입니다."
+    },
+    {
+      "name": "생명의구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/life-orb.png",
+      "category": "아이템 보관",
+      "effect": "무브의 위력이 증가하지만 매 턴마다 HP를 잃습니다."
+    },
+    {
+      "name": "전기구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/light-ball.png",
+      "category": "아이템 보관",
+      "effect": "PIKACHU가 들고 있는 아이템. 공격력과 특공 스탯을 올려주는 수수께끼의 오브이다."
+    },
+    {
+      "name": "빛의점토",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/light-clay.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 소지한 아이템으로 라이트 스크린과 리플렉트와 같은 배리어 이동의 지속 시간이 연장됩니다."
+    },
+    {
+      "name": "핸섬티켓",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/looker-ticket.png",
+      "category": "아이템 보관",
+      "effect": "Looker가 손수 만든 티켓입니다. 반짝이는 페인트로 장식되어 있습니다."
+    },
+    {
+      "name": "이어롭나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lopunnite.png",
+      "category": "아이템 보관",
+      "effect": "이어롭을 메가이어롭으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "러브러브볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/love-ball.png",
+      "category": "포켓볼",
+      "effect": "포켓몬과 성별이 다른 포켓몬을 잡기 위한 포켓볼입니다."
+    },
+    {
+      "name": "루카리오나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lucarionite.png",
+      "category": "아이템 보관",
+      "effect": "루카리오를 메가루카리오로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "행운의향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/luck-incense.png",
+      "category": "아이템 보관",
+      "effect": "보유할 경우 상금이 두 배로 증가합니다. Chansey 또는 Blissey를 사육하면 개최될 때 Happiny가 생성됩니다."
+    },
+    {
+      "name": "행복의알",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lucky-egg.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 전투에서 추가 경험치를 획득하는 행복이 가득한 알이다."
+    },
+    {
+      "name": "럭키펀치",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lucky-punch.png",
+      "category": "아이템 보관",
+      "effect": "럭키가 들고 있을 때 치명타율이 증가합니다."
+    },
+    {
+      "name": "리샘열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lum-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 모든 상태 문제에서 회복됩니다."
+    },
+    {
+      "name": "빛이끼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/luminous-moss.png",
+      "category": "아이템 보관",
+      "effect": "수속성 기술에 적중당하면 특수 방어력이 상승합니다."
+    },
+    {
+      "name": "미르갈레트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lumiose-galette.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "루나아라z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lunalium-z.png",
+      "category": "아이템 보관",
+      "effect": "섀도레이를 배우고 있는 루나아라가 전용 Z기술인 문라이트블래스터를 사용할 수 있게 된다."
+    },
+    {
+      "name": "루어볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lure-ball.png",
+      "category": "포켓볼",
+      "effect": "낚시할 때 낚싯대에 낚인 포켓몬을 잡기 위한 포켓볼."
+    },
+    {
+      "name": "백옥",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lustrous-orb.png",
+      "category": "아이템 보관",
+      "effect": "팔키아가 들고 있을 때 용과 물 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "럭셔리볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/luxury-ball.png",
+      "category": "포켓볼",
+      "effect": "잡은 야생 포켓몬을 빠르게 친하게 만드는 편안한 포켓볼."
+    },
+    {
+      "name": "루가루암z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/lycanium-z.png",
+      "category": "아이템 보관",
+      "effect": "스톤에지를 배우고 있는 루가루암이 전용 Z기술인 레이디얼에지스톰을 사용할 수 있게 된다."
+    },
+    {
+      "name": "교정깁스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/macho-brace.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 강하고 성장을 촉진하지만 속도를 낮추는 뻣뻣하고 무거운 버팀대입니다."
+    },
+    {
+      "name": "마그마부스터",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/magmarizer.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 마그마가 진화합니다."
+    },
+    {
+      "name": "자석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/magnet.png",
+      "category": "아이템 보관",
+      "effect": "전기 계열 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "마고열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mago-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮으면 회복되지만 혼란을 일으킬 수 있습니다."
+    },
+    {
+      "name": "고스티열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/magost-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "썬더볼트나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/manectite.png",
+      "category": "아이템 보관",
+      "effect": "썬더볼트를 메가썬더볼트로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "타라프열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/maranga-berry.png",
+      "category": "딸기",
+      "effect": "이 베리는 포켓몬이 들고 있을 때 필살기로 명중되면 보유자의 SP 방어력을 증가시킵니다."
+    },
+    {
+      "name": "마샤도z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/marshadium-z.png",
+      "category": "아이템 보관",
+      "effect": "섀도스틸을 배우고 있는 마샤도가 전용 Z기술인 칠성탈혼퇴를 사용할 수 있게 된다."
+    },
+    {
+      "name": "마스터볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/master-ball.png",
+      "category": "포켓볼",
+      "effect": "궁극의 성능을 지닌 최고의 볼. 어떤 야생 포켓몬도 반드시 잡아냅니다."
+    },
+    {
+      "name": "입치트나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mawilite.png",
+      "category": "아이템 보관",
+      "effect": "입치트를 메가입치트로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "pp맥스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/max-elixir.png",
+      "category": "의학",
+      "effect": "대상 포켓몬이 배운 모든 기술의 PP를 완전히 회복합니다."
+    },
+    {
+      "name": "pp회복",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/max-ether.png",
+      "category": "의학",
+      "effect": "대상 포켓몬이 학습한 선택한 단일 기술의 PP를 완전히 회복합니다."
+    },
+    {
+      "name": "풀회복약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/max-potion.png",
+      "category": "의학",
+      "effect": "HP를 완전히 회복합니다."
+    },
+    {
+      "name": "골드스프레이",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/max-repel.png",
+      "category": "일반 항목",
+      "effect": "약한 야생 포켓몬이 사용 후 250보 동안 나타나지 않도록 하는 아이템입니다."
+    },
+    {
+      "name": "기력의덩어리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/max-revive.png",
+      "category": "의학",
+      "effect": "기절한 포켓몬을 되살리는 약. 포켓몬의 HP를 완전히 회복시킨다."
+    },
+    {
+      "name": "초록플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/meadow-plate.png",
+      "category": "아이템 보관",
+      "effect": "풀 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 풀 타입으로 변경합니다."
+    },
+    {
+      "name": "요가램나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/medichamite.png",
+      "category": "아이템 보관",
+      "effect": "요가램을 메가요가램으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "멘탈허브",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mental-herb.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 쥐고 있는 아이템. 홀가분한 마음에 홀더를 빼냅니다. 한 번만 사용할 수 있습니다."
+    },
+    {
+      "name": "메타그로스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/metagrossite.png",
+      "category": "아이템 보관",
+      "effect": "메타그로스를 메가메타그로스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "금속코트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/metal-coat.png",
+      "category": "아이템 보관",
+      "effect": "강철 기술의 위력이 증가합니다. 아이템을 들고 교환 시 오닉스와 낫을 진화시킵니다."
+    },
+    {
+      "name": "금속파우더",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/metal-powder.png",
+      "category": "아이템 보관",
+      "effect": "Ditto가 들고 있을 때 방어력이 증가합니다."
+    },
+    {
+      "name": "메트로놈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/metronome.png",
+      "category": "아이템 보관",
+      "effect": "연속 사용하는 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "뮤z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mewnium-z.png",
+      "category": "아이템 보관",
+      "effect": "사이코키네시스를 배우고 있는 뮤가 전용 Z기술인 오리진즈슈퍼노바를 사용할 수 있게 된다."
+    },
+    {
+      "name": "뮤츠나이트x",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mewtwonite-x.png",
+      "category": "아이템 보관",
+      "effect": "전투 중에 뮤츠를 메가뮤츠X로 활성화합니다."
+    },
+    {
+      "name": "뮤츠나이트y",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mewtwonite-y.png",
+      "category": "아이템 보관",
+      "effect": "전투 중에 뮤츠를 메가뮤츠Y로 활성화합니다."
+    },
+    {
+      "name": "미클열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/micle-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 움직임의 정확도를 높입니다."
+    },
+    {
+      "name": "힘의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mighty-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 공격 능력치를 1 증가시킵니다."
+    },
+    {
+      "name": "힘의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mighty-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 공격 능력치를 증가시킵니다."
+    },
+    {
+      "name": "힘의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mighty-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 공격 능력치를 증가시킵니다."
+    },
+    {
+      "name": "따라큐z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mimikium-z.png",
+      "category": "아이템 보관",
+      "effect": "치근거리기를 배우고 있는 따라큐가 전용 Z기술인 투닥투닥프렌드타임을 사용할 수 있게 된다."
+    },
+    {
+      "name": "이상한플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mind-plate.png",
+      "category": "아이템 보관",
+      "effect": "사이킥 유형 기술의 위력을 증가시킵니다. 아르세우스의 유형을 사이킥으로 변경합니다."
+    },
+    {
+      "name": "기적의열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/miracle-seed.png",
+      "category": "아이템 보관",
+      "effect": "풀 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "미스트시드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/misty-seed.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 안개 낀 지형에서 SP 방어력을 올려준다. 한 번만 사용할 수 있다."
+    },
+    {
+      "name": "튼튼밀크",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/moomoo-milk.png",
+      "category": "의학",
+      "effect": "영양 함량이 매우 높은 우유. 포켓몬 1마리의 HP를 100포인트 회복합니다."
+    },
+    {
+      "name": "문볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/moon-ball.png",
+      "category": "포켓볼",
+      "effect": "문스톤을 사용하여 진화하는 포켓몬을 잡기 위한 포켓볼입니다."
+    },
+    {
+      "name": "달의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/moon-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "힘의머리띠",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/muscle-band.png",
+      "category": "아이템 보관",
+      "effect": "물리 카테고리 이동의 위력을 증가시킵니다."
+    },
+    {
+      "name": "근력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/muscle-wing.png",
+      "category": "의학",
+      "effect": "공격 노력치가 1 증가합니다."
+    },
+    {
+      "name": "신비의물방울",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/mystic-water.png",
+      "category": "아이템 보관",
+      "effect": "물타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "나나열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/nanab-berry.png",
+      "category": "딸기",
+      "effect": "요리에 사용되는 베리입니다. Let's Go Pikachu/Eevee에서 배틀에서 포켓몬을 진정시킵니다."
+    },
+    {
+      "name": "네스트볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/nest-ball.png",
+      "category": "포켓볼",
+      "effect": "야생에서 약한 포켓몬에게 특히 잘 작동하는 약간 다른 포켓볼."
+    },
+    {
+      "name": "넷트볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/net-ball.png",
+      "category": "포켓볼",
+      "effect": "물 및 벌레 유형 포켓몬에게 특히 잘 작동하는 다소 다른 포켓볼."
+    },
+    {
+      "name": "노멜열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/nomel-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "나무상자",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/normal-gem.png",
+      "category": "아이템 보관",
+      "effect": "노멀 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "노말z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/normalium-z.png",
+      "category": "아이템 보관",
+      "effect": "노말타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "금구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/nugget.png",
+      "category": "일반 항목",
+      "effect": "광택이 나는 순금 덩어리. 상점에 고가에 팔 수 있습니다."
+    },
+    {
+      "name": "오카열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/occa-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초강력 화속성 공격을 약화시킨다."
+    },
+    {
+      "name": "괴상한향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/odd-incense.png",
+      "category": "아이템 보관",
+      "effect": "사이킥 계열 기술의 위력이 증가합니다. 미스터 마임을 교배하면 마임 주니어가 생성됩니다."
+    },
+    {
+      "name": "쐐기돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/odd-keystone.png",
+      "category": "일반 항목",
+      "effect": "석탑이 무너지지 않도록 하는 데 필요한 필수 아이템. 가끔 목소리가 들린다."
+    },
+    {
+      "name": "비밀의호박",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/old-amber.png",
+      "category": "일반 항목",
+      "effect": "고대 포켓몬의 유전 물질이 들어 있는 호박색 조각. 투명하고 붉은빛이 도는 색입니다."
+    },
+    {
+      "name": "숲의양갱",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/old-gateau.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "오랭열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/oran-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 사용자의 HP를 10만 회복합니다."
+    },
+    {
+      "name": "둥근부적",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/oval-charm.png",
+      "category": "일반 항목",
+      "effect": "어린이집에서 포켓몬 알을 발견할 확률이 높아진다고 하는 타원형 부적."
+    },
+    {
+      "name": "동글동글돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/oval-stone.png",
+      "category": "일반 항목",
+      "effect": "잡으면 행복이 진화합니다."
+    },
+    {
+      "name": "자야열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pamtre-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "마비치료제",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/paralyze-heal.png",
+      "category": "의학",
+      "effect": "스프레이 형태의 약. 단일 포켓몬의 마비를 제거합니다."
+    },
+    {
+      "name": "파크볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/park-ball.png",
+      "category": "포켓볼",
+      "effect": "Pal Park를 위한 특별한 포켓볼."
+    },
+    {
+      "name": "딜구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pass-orb.png",
+      "category": "아이템 보관",
+      "effect": "하나 지역의 힘이 담긴 신비한 오브로, 패스 파워 생성 시 사용됩니다."
+    },
+    {
+      "name": "꼬시개열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/passho-berry.png",
+      "category": "딸기",
+      "effect": "손에 들고 있는 포켓몬에 대한 초강력 수속성 공격을 약화시킨다."
+    },
+    {
+      "name": "야파열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/payapa-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초능력의 사이킥 계열 공격을 약화시킵니다."
+    },
+    {
+      "name": "진주",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pearl.png",
+      "category": "일반 항목",
+      "effect": "예쁜 은빛으로 반짝이는 다소 작은 진주. 상점에 싸게 팔 수 있다."
+    },
+    {
+      "name": "경단진주",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pearl-string.png",
+      "category": "일반 항목",
+      "effect": "예쁜 은색으로 반짝이는 매우 큰 진주. 광인은 비싼 값에 사게 될 것입니다."
+    },
+    {
+      "name": "복슝열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pecha-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 독에서 회복됩니다."
+    },
+    {
+      "name": "허가증",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/permit.png",
+      "category": "일반 항목",
+      "effect": "자연보호구역에 들어가기 위해 필요한 허가증입니다. 아는 사람이 많지 않습니다."
+    },
+    {
+      "name": "시몬열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/persim-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 혼란에서 회복됩니다."
+    },
+    {
+      "name": "야타비열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/petaya-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 특수 공격을 올립니다."
+    },
+    {
+      "name": "만병통치제",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/full-heal.png",
+      "category": "의학",
+      "effect": "모든 상태이상을 회복한다. (기절 제외)"
+    },
+    {
+      "name": "피카츄z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pikanium-z.png",
+      "category": "아이템 보관",
+      "effect": "볼트태클을 배우고 있는 피카츄가 전용 Z기술인 필살피카슛을 사용할 수 있게 된다."
+    },
+    {
+      "name": "지우피카z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pikashunium-z.png",
+      "category": "아이템 보관",
+      "effect": "10만볼트를 배우고 있는 모자 쓴 피카츄가 전용 Z기술인 1000만볼트를 사용할 수 있게 된다."
+    },
+    {
+      "name": "파인열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pinap-berry.png",
+      "category": "딸기",
+      "effect": "요리에 사용되는 베리입니다. 포켓몬 렛츠고에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 높아집니다."
+    },
+    {
+      "name": "담홍규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pink-apricorn.png",
+      "category": "일반 항목",
+      "effect": "분홍색 살구입니다. 달콤하고 좋은 향이 납니다."
+    },
+    {
+      "name": "연분홍꿀",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pink-nectar.png",
+      "category": "아이템 보관",
+      "effect": "로열 애비뉴의 꽃이 만발한 관목에서 얻은 꽃의 꿀. 특정 포켓몬 종의 형태를 변경합니다."
+    },
+    {
+      "name": "분홍밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pink-scarf.png",
+      "category": "일반 항목",
+      "effect": "컨테스트에서 보유자의 귀여운 면모를 높입니다."
+    },
+    {
+      "name": "쁘사이저나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pinsirite.png",
+      "category": "아이템 보관",
+      "effect": "쁘사이저를 메가쁘사이저로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "정령플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pixie-plate.png",
+      "category": "아이템 보관",
+      "effect": "요정 계열 기술의 위력이 증가합니다. 아르세우스 계열을 요정 계열로 변경합니다."
+    },
+    {
+      "name": "플라스마카드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/plasma-card.png",
+      "category": "아이템 보관",
+      "effect": "플라즈마 호위함 내부에 암호를 입력하는 데 필요한 카드 키입니다."
+    },
+    {
+      "name": "날개화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/plume-fossil.png",
+      "category": "일반 항목",
+      "effect": "고대에 하늘을 나는 고대 포켓몬의 화석. 날개의 일부로 보인다."
+    },
+    {
+      "name": "독바늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/poison-barb.png",
+      "category": "아이템 보관",
+      "effect": "독 계열 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "독주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/poison-gem.png",
+      "category": "아이템 보관",
+      "effect": "독 계열 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "포이즌메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/poison-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 해당 기술의 다중 공격을 독 유형으로 변경합니다."
+    },
+    {
+      "name": "독z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/poisonium-z.png",
+      "category": "아이템 보관",
+      "effect": "독타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "유석열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pomeg-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 HP 노력치는 감소합니다."
+    },
+    {
+      "name": "상처약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/potion.png",
+      "category": "의학",
+      "effect": "20 HP를 회복합니다."
+    },
+    {
+      "name": "파워앵클릿",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-anklet.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 속도 증가를 촉진하지만 속도 통계를 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "파워밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-band.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 Sp. Def 증가를 촉진하지만 속도 통계를 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "파워벨트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-belt.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 방어력 증가를 촉진하지만 속도 스탯을 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "파워리스트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-bracer.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 공격력 증가를 촉진하지만 속도 통계를 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "파워풀허브",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-herb.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 일회용 아이템. 첫 번째 턴에 충전되는 기술을 즉시 사용할 수 있습니다."
+    },
+    {
+      "name": "파워렌즈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-lens.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 SP 공격력 증가를 촉진하지만 속도 스탯을 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "발전소패스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-plant-pass.png",
+      "category": "아이템 보관",
+      "effect": "이 패스는 13번 국도를 따라 있는 발전소에 접근하기 위한 ID 카드 역할을 합니다."
+    },
+    {
+      "name": "파워웨이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/power-weight.png",
+      "category": "아이템 보관",
+      "effect": "레벨링 시 HP 증가를 촉진하지만 속도 통계를 감소시키는 포켓몬 보유 아이템입니다."
+    },
+    {
+      "name": "포인트맥스",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pp-max.png",
+      "category": "의학",
+      "effect": "대상 포켓몬이 배운 선택된 기술의 상위 PP를 최대로 올립니다."
+    },
+    {
+      "name": "포인트업",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pp-up.png",
+      "category": "의학",
+      "effect": "대상 포켓몬이 배운 선택된 기술의 최대 PP를 약간 올립니다."
+    },
+    {
+      "name": "프레미어볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/premier-ball.png",
+      "category": "포켓볼",
+      "effect": "어떤 종류의 사건을 기념하기 위해 특별히 제작된 다소 희귀한 포켓볼입니다."
+    },
+    {
+      "name": "고운날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pretty-wing.png",
+      "category": "일반 항목",
+      "effect": "이 깃털은 아름답지만 일반 깃털일 뿐이며 포켓몬에게는 영향을 미치지 않습니다."
+    },
+    {
+      "name": "누리레느z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/primarium-z.png",
+      "category": "아이템 보관",
+      "effect": "물거품아리아를 배우고 있는 누리레느가 전용 Z기술인 바다의심포니를 사용할 수 있게 된다."
+    },
+    {
+      "name": "고운비늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/prism-scale.png",
+      "category": "일반 항목",
+      "effect": "빈티나에게 지니게 한 뒤 통신교환을 하면 밀로틱으로 진화한다. (4세대 제외)"
+    },
+    {
+      "name": "굴레의항아리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/prison-bottle.png",
+      "category": "아이템 보관",
+      "effect": "굴레의항아리는 후파에게 사용하면 후파를 폼체인지시키는 도구다."
+    },
+    {
+      "name": "방호패드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/protective-pads.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 이 패드는 대상과 직접 접촉하여 발생하는 효과로부터 홀더를 보호합니다."
+    },
+    {
+      "name": "프로텍터",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/protector.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 라이돈이 진화합니다."
+    },
+    {
+      "name": "에스퍼주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/psychic-gem.png",
+      "category": "아이템 보관",
+      "effect": "사이킥 계열 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "사이킥메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/psychic-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 사이킥 유형으로 변경합니다."
+    },
+    {
+      "name": "사이코시드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/psychic-seed.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 사이킥 지형의 Sp. Def를 증가시킨다. 한 번만 사용할 수 있다."
+    },
+    {
+      "name": "에스퍼z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/psychium-z.png",
+      "category": "아이템 보관",
+      "effect": "에스퍼타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "순결의향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/pure-incense.png",
+      "category": "아이템 보관",
+      "effect": "야생 포켓몬을 만날 가능성이 줄어듭니다. 키메초를 사육하면 칭링이 생성됩니다."
+    },
+    {
+      "name": "보라꿀",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/purple-nectar.png",
+      "category": "아이템 보관",
+      "effect": "포니 초원에서 얻은 꽃의 꿀. 특정 포켓몬 종의 형태를 바꾼다."
+    },
+    {
+      "name": "파비열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/qualot-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 방어 노력치는 감소합니다."
+    },
+    {
+      "name": "퀵볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-ball.png",
+      "category": "포켓볼",
+      "effect": "야생 조우를 시작할 때 사용하면 더 나은 캐치율을 제공하는 다소 다른 포켓볼입니다."
+    },
+    {
+      "name": "속도의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 속도를 1 증가시킵니다."
+    },
+    {
+      "name": "속도의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 속도 통계를 증가시킵니다."
+    },
+    {
+      "name": "속도의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 속도 통계를 증가시킵니다."
+    },
+    {
+      "name": "선제공격손톱",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-claw.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 쥐고 있는 아이템. 때때로 소지자를 먼저 움직이게 하는 가볍고 날카로운 발톱."
+    },
+    {
+      "name": "스피드파우더",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/quick-powder.png",
+      "category": "아이템 보관",
+      "effect": "Ditto가 들고 있을 때 속도가 증가합니다."
+    },
+    {
+      "name": "라부탐열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rabuta-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "분노의호두과자",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rage-candy-bar.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "귀중한뼈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rare-bone.png",
+      "category": "일반 항목",
+      "effect": "포켓몬 고고학에 매우 귀중한 뼈. 상점에 고가에 팔 수 있습니다."
+    },
+    {
+      "name": "이상한사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rare-candy.png",
+      "category": "의학",
+      "effect": "에너지가 가득한 사탕. 포켓몬 1마리의 레벨을 1단계 올린다."
+    },
+    {
+      "name": "복분열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rawst-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 화상에서 회복됩니다."
+    },
+    {
+      "name": "예리한손톱",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/razor-claw.png",
+      "category": "아이템 보관",
+      "effect": "치명타율이 증가합니다. 밤에 들고 있으면 스니젤이 진화합니다."
+    },
+    {
+      "name": "예리한이빨",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/razor-fang.png",
+      "category": "아이템 보관",
+      "effect": "상대가 움찔하게 만들 수 있습니다. 밤에 들고 있으면 글리가가 진화합니다."
+    },
+    {
+      "name": "라즈열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/razz-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "영계의천",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/reaper-cloth.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 Dusclops를 진화시킵니다."
+    },
+    {
+      "name": "빨간규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-apricorn.png",
+      "category": "일반 항목",
+      "effect": "빨간 살구. 콧구멍을 공격합니다."
+    },
+    {
+      "name": "레드카드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-card.png",
+      "category": "아이템 보관",
+      "effect": "신비한 힘을 가진 카드. 소지자가 적에게 맞았을 때 공격자는 전투에서 제외됩니다."
+    },
+    {
+      "name": "빨강비드로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-flute.png",
+      "category": "일반 항목",
+      "effect": "빨간 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "다홍꿀",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-nectar.png",
+      "category": "아이템 보관",
+      "effect": "울라울라 초원에서 얻은 꽃의 꿀. 특정 포켓몬 종의 형태를 바꾼다."
+    },
+    {
+      "name": "빨강밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-scarf.png",
+      "category": "일반 항목",
+      "effect": "컨테스트에서 보유자의 쿨한 면모를 높입니다."
+    },
+    {
+      "name": "빨강조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/red-shard.png",
+      "category": "일반 항목",
+      "effect": "작은 붉은 조각. 오래 전에 만들어진 일종의 도구에서 나온 것 같습니다."
+    },
+    {
+      "name": "고대의팔찌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-band.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 만들어진 팔찌. 미치광이가 비싼 값에 살 것이다."
+    },
+    {
+      "name": "고대의동화",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-copper.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 사용되었던 구리 동전. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "고대의왕관",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-crown.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 만들어진 왕관. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "고대의금화",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-gold.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 사용된 금화. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "고대의은화",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-silver.png",
+      "category": "일반 항목",
+      "effect": "약 3,000년 전 문명에서 사용된 은화. 광인이 비싼 값에 살 것입니다."
+    },
+    {
+      "name": "고대의석상",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-statue.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 만들어진 석상. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "고대의항아리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/relic-vase.png",
+      "category": "일반 항목",
+      "effect": "약 3000년 전 문명에서 만들어진 꽃병. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "리피드볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/repeat-ball.png",
+      "category": "포켓볼",
+      "effect": "이전에 잡은 포켓몬 종에서 특히 잘 작동하는 다소 다른 포켓볼."
+    },
+    {
+      "name": "벌레회피스프레이",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/repel.png",
+      "category": "일반 항목",
+      "effect": "약한 야생 포켓몬이 사용 후 100단계 동안 나타나지 않도록 하는 아이템입니다."
+    },
+    {
+      "name": "플랫콜",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/reset-urge.png",
+      "category": "전투 아이템",
+      "effect": "사용하면 아군 포켓몬의 모든 능력치 변경 사항을 복원합니다."
+    },
+    {
+      "name": "저항력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/resist-wing.png",
+      "category": "의학",
+      "effect": "방어 노력치가 1 증가합니다."
+    },
+    {
+      "name": "비추는거울",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/reveal-glass.png",
+      "category": "일반 항목",
+      "effect": "진실을 밝히는 거울. 포켓몬을 원래의 모습으로 되돌리는 신비한 유리입니다."
+    },
+    {
+      "name": "부활초",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/revival-herb.png",
+      "category": "의학",
+      "effect": "포켓몬을 최대 HP로 되살리지만 우정은 감소합니다."
+    },
+    {
+      "name": "기력의조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/revive.png",
+      "category": "의학",
+      "effect": "기절한 포켓몬을 되살리는 약. 포켓몬의 최대 HP를 절반으로 회복시킨다."
+    },
+    {
+      "name": "린드열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rindo-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초강력 풀 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "겨냥표적",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ring-target.png",
+      "category": "아이템 보관",
+      "effect": "효과가 없는 움직임은 그것을 들고 있는 포켓몬에게 착륙합니다."
+    },
+    {
+      "name": "바위주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rock-gem.png",
+      "category": "아이템 보관",
+      "effect": "바위 타입 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "암석향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rock-incense.png",
+      "category": "아이템 보관",
+      "effect": "바위 타입 기술의 위력을 증가시킵니다. 스도우도를 교배시키면 본슬리가 생성됩니다."
+    },
+    {
+      "name": "락메모리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rock-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 바위 유형으로 변경합니다."
+    },
+    {
+      "name": "바위z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rockium-z.png",
+      "category": "아이템 보관",
+      "effect": "바위타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "울퉁불퉁멧",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rocky-helmet.png",
+      "category": "아이템 보관",
+      "effect": "이 아이템의 소지자가 피해를 입으면 공격자도 접촉 시 피해를 입습니다."
+    },
+    {
+      "name": "롤러스케이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/roller-skates.png",
+      "category": "일반 항목",
+      "effect": "신발 바닥에 롤러 스케이트를 부착하여 빠르게 활공하고 트릭을 수행할 수 있습니다."
+    },
+    {
+      "name": "뿌리화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/root-fossil.png",
+      "category": "일반 항목",
+      "effect": "바다에 살았던 고대 포켓몬의 화석. 식물 뿌리의 일부로 보입니다."
+    },
+    {
+      "name": "꽃향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rose-incense.png",
+      "category": "아이템 보관",
+      "effect": "잔디형 기술의 위력이 증가합니다. 로젤리아나 로제레이드를 교배하면 버드나무가 생성됩니다."
+    },
+    {
+      "name": "로셀열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/roseli-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 이 베리는 매우 효과적인 페어리 타입 공격으로 받는 피해를 줄입니다."
+    },
+    {
+      "name": "애터열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/rowap-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 특수 공격이 착지하면 공격자도 피해를 입습니다."
+    },
+    {
+      "name": "깜까미나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sablenite.png",
+      "category": "아이템 보관",
+      "effect": "깜까미를 메가깜까미로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "향기주머니",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sachet.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 Spritzee가 진화합니다."
+    },
+    {
+      "name": "성스러운분말",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sacred-ash.png",
+      "category": "의학",
+      "effect": "기절한 모든 포켓몬을 되살린다. 그렇게 하면 HP도 완전히 회복된다."
+    },
+    {
+      "name": "사파리볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/safari-ball.png",
+      "category": "포켓볼",
+      "effect": "Great Marsh에서만 사용되는 특별한 포켓볼입니다. 위장무늬로 장식되어 있습니다."
+    },
+    {
+      "name": "방진고글",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/safety-goggles.png",
+      "category": "아이템 보관",
+      "effect": "날씨와 가루로 인한 피해를 방지합니다."
+    },
+    {
+      "name": "캄라열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/salac-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 속도를 높입니다."
+    },
+    {
+      "name": "보만다나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/salamencite.png",
+      "category": "아이템 보관",
+      "effect": "보만다를 메가보만다로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "나무킹나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sceptilite.png",
+      "category": "아이템 보관",
+      "effect": "나무킹을 메가나무킹으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "핫삼나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/scizorite.png",
+      "category": "아이템 보관",
+      "effect": "핫삼을 메가핫삼으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "초점렌즈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/scope-lens.png",
+      "category": "아이템 보관",
+      "effect": "치명타율이 증가합니다."
+    },
+    {
+      "name": "바닷물향로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sea-incense.png",
+      "category": "아이템 보관",
+      "effect": "물타입 기술의 위력이 증가합니다. 마릴 또는 아주마릴을 교배하면 아주릴이 생성됩니다."
+    },
+    {
+      "name": "사라사블레",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shalour-sable.png",
+      "category": "의학",
+      "effect": "모든 주요 상태 상태를 치료합니다."
+    },
+    {
+      "name": "예리한부리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sharp-beak.png",
+      "category": "아이템 보관",
+      "effect": "비행 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "샤크니아나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sharpedonite.png",
+      "category": "아이템 보관",
+      "effect": "샤크니아를 메가샤크니아로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "아름다운허물",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shed-shell.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 단단하고 버려진 갑각. 이를 통해 보유자는 전투에서 대기 중인 포켓몬으로 전환할 수 있습니다."
+    },
+    {
+      "name": "조개껍질방울",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shell-bell.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 데미지를 입힐 때마다 홀더의 HP가 조금씩 회복된다."
+    },
+    {
+      "name": "빚나는부적",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shiny-charm.png",
+      "category": "일반 항목",
+      "effect": "야생에서 빛나는 포켓몬을 찾을 확률이 높아진다고 하는 빛나는 부적."
+    },
+    {
+      "name": "빛의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shiny-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "여울소금",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shoal-salt.png",
+      "category": "일반 항목",
+      "effect": "Shoal Cave 깊숙한 곳에서 발견할 수 있는 순수한 소금. 미치광이는 비싼 값에 살 것입니다."
+    },
+    {
+      "name": "여울조개껍질",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shoal-shell.png",
+      "category": "일반 항목",
+      "effect": "Shoal Cave 깊숙한 곳에서 볼 수 있는 예쁜 조개껍데기. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "번개카세트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shock-drive.png",
+      "category": "아이템 보관",
+      "effect": "게노세크트가 들고 있을 때 테크노버스터를 전기 유형 기술로 변경합니다."
+    },
+    {
+      "name": "슈캐열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/shuca-berry.png",
+      "category": "딸기",
+      "effect": "지키고 있는 포켓몬에 대한 매우 효과적인 지상 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "실크스카프",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/silk-scarf.png",
+      "category": "아이템 보관",
+      "effect": "노멀 타입 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "은파인열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/silver-nanab-berry.png",
+      "category": "딸기",
+      "effect": "레츠고! 피카츄·레츠고! 이브이에서는 야생 포켓몬에게 주면 포켓몬을 잡을 때 더 많은 도구를 얻을 확률이 상승한다. 포획에 실패하면 효과는 사라진다."
+    },
+    {
+      "name": "은빛가루",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/silver-pinap-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬에게 이 도구를 지니게 하면 벌레 기술의 위력이 20% 상승한다."
+    },
+    {
+      "name": "은라즈열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/silver-powder.png",
+      "category": "아이템 보관",
+      "effect": "벌레형 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "은빛날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/silver-razz-berry.png",
+      "category": "딸기",
+      "effect": "야생 포켓몬의 포획률을 높인다."
+    },
+    {
+      "name": "자뭉열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sitrus-berry.png",
+      "category": "딸기",
+      "effect": "포켓몬이 들고 있으면 사용자의 HP를 약간 회복합니다."
+    },
+    {
+      "name": "두개의화석",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/skull-fossil.png",
+      "category": "일반 항목",
+      "effect": "땅에 살았던 선사 시대 포켓몬의 화석. 머리의 일부로 보입니다."
+    },
+    {
+      "name": "푸른하늘플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sky-plate.png",
+      "category": "아이템 보관",
+      "effect": "비행 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 비행 타입으로 변경합니다."
+    },
+    {
+      "name": "야도란나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/slowbronite.png",
+      "category": "아이템 보관",
+      "effect": "야도란을 메가야도란으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "지식의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/smart-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 공격 능력치를 1 증가시킵니다."
+    },
+    {
+      "name": "지식의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/smart-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 공격 능력치를 증가시킵니다."
+    },
+    {
+      "name": "지식의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/smart-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 특수 공격 능력치를 증가시킵니다."
+    },
+    {
+      "name": "연막탄",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/smoke-ball.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 쥐고 있는 아이템입니다. 어떤 야생 포켓몬에게도 틀림없이 도망칠 수 있게 해줍니다."
+    },
+    {
+      "name": "보송보송바위",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/smooth-rock.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬 보유 아이템으로 홀더가 사용하는 모래 폭풍의 이동 시간을 연장합니다."
+    },
+    {
+      "name": "잠만보z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/snorlium-z.png",
+      "category": "아이템 보관",
+      "effect": "기가임팩트를 배우고 있는 잠만보가 전용 Z기술인 진심의공격을 사용할 수 있게 된다."
+    },
+    {
+      "name": "눈덩이",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/snowball.png",
+      "category": "아이템 보관",
+      "effect": "얼음 계열 기술에 적중당하면 공격력이 상승합니다."
+    },
+    {
+      "name": "미네랄사이다",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/soda-pop.png",
+      "category": "의학",
+      "effect": "50 HP를 회복합니다."
+    },
+    {
+      "name": "부드러운모래",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/soft-sand.png",
+      "category": "아이템 보관",
+      "effect": "지형 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "솔가레오z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/solganium-z.png",
+      "category": "아이템 보관",
+      "effect": "메테오드라이브를 배우고 있는 솔가레오가 전용 Z기술인 선샤인스매셔를 사용할 수 있게 된다."
+    },
+    {
+      "name": "평온의방울",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/soothe-bell.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 안고 있는 아이템. 소지자를 진정시키고 친근하게 만드는 위안의 종소리가 울려 퍼지는 종입니다."
+    },
+    {
+      "name": "마음의물방울",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/soul-dew.png",
+      "category": "아이템 보관",
+      "effect": "라티오스 또는 라티아스가 들고 있을 때 사이킥 및 드래곤 타입 기술의 위력이 증가합니다. 7세대 이전에 Sp.Atk/Sp.Def가 증가합니다."
+    },
+    {
+      "name": "저주의부적",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/spell-tag.png",
+      "category": "아이템 보관",
+      "effect": "고스트 타입 기술의 위력을 증가시킵니다."
+    },
+    {
+      "name": "메호키열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/spelon-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "물방울플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/splash-plate.png",
+      "category": "아이템 보관",
+      "effect": "물 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 물 타입으로 변경합니다."
+    },
+    {
+      "name": "원령플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/spooky-plate.png",
+      "category": "아이템 보관",
+      "effect": "고스트 유형 기술의 위력을 증가시킵니다. 아르세우스의 유형을 고스트 유형으로 변경합니다."
+    },
+    {
+      "name": "콤페볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sport-ball.png",
+      "category": "포켓볼",
+      "effect": "벌레 잡기 대회를 위한 특별 포켓볼."
+    },
+    {
+      "name": "연꽃몬물뿌리개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sprinklotad.png",
+      "category": "일반 항목",
+      "effect": "로타드 모양의 물뿌리개입니다. 부드럽고 좋은 토양에 심어진 모든 열매의 건강한 성장을 촉진하는 데 도움이 됩니다."
+    },
+    {
+      "name": "오래오래비료",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/stable-mulch.png",
+      "category": "일반 항목",
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "별의조각",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/star-piece.png",
+      "category": "일반 항목",
+      "effect": "붉은 색으로 반짝이는 예쁜 보석 조각. 상점에 고가에 팔 수 있습니다."
+    },
+    {
+      "name": "별의모래",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/stardust.png",
+      "category": "일반 항목",
+      "effect": "부드럽고 비단결 같은 느낌의 사랑스러운 붉은색 모래. 상점에 고가에 팔 수 있습니다."
+    },
+    {
+      "name": "스타열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/starf-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮을 때 무작위 스탯을 급격히 올립니다."
+    },
+    {
+      "name": "강철주얼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/steel-gem.png",
+      "category": "아이템 보관",
+      "effect": "강철 기술의 위력을 한 번만 증가시킵니다."
+    },
+    {
+      "name": "스틸메일",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/steel-memory.png",
+      "category": "아이템 보관",
+      "effect": "AR시스템 포켓몬과 그 기술의 다중 공격을 강철 유형으로 변경합니다."
+    },
+    {
+      "name": "강철z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/steelium-z.png",
+      "category": "아이템 보관",
+      "effect": "강철타입 기술을 배우고 있는 포켓몬이 Z기술을 사용할 수 있게 된다."
+    },
+    {
+      "name": "강철톤나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/steelixite.png",
+      "category": "아이템 보관",
+      "effect": "강철톤을 메가강철톤으로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "끈적끈적바늘",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sticky-barb.png",
+      "category": "아이템 보관",
+      "effect": "매 턴마다 홀더를 손상시키는 홀드 아이템입니다. 홀더를 만지는 적과 아군에게 고정될 수 있습니다."
+    },
+    {
+      "name": "암석플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/stone-plate.png",
+      "category": "아이템 보관",
+      "effect": "바위 타입 기술의 위력을 증가시킵니다. 아르세우스의 타입을 록으로 변경합니다."
+    },
+    {
+      "name": "이상한장식품",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/strange-souvenir.png",
+      "category": "일반 항목",
+      "effect": "칼로스에서 멀리 떨어진 어떤 지역에서 수호신으로 추앙받는 포켓몬을 묘사한 장식입니다."
+    },
+    {
+      "name": "태양의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sun-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "좋은상처약",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/super-potion.png",
+      "category": "의학",
+      "effect": "60 HP를 회복합니다."
+    },
+    {
+      "name": "실버스프레이",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/super-repel.png",
+      "category": "일반 항목",
+      "effect": "약한 야생 포켓몬이 사용 후 200보 동안 나타나지 않도록 하는 아이템입니다."
+    },
+    {
+      "name": "대짱이나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/swampertite.png",
+      "category": "아이템 보관",
+      "effect": "대짱이를 메가대짱이로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "하트스위트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/sweet-heart.png",
+      "category": "의학",
+      "effect": "아주 달콤한 초콜릿. 포켓몬 1마리의 HP를 20포인트 회복합니다."
+    },
+    {
+      "name": "순발력날개",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/swift-wing.png",
+      "category": "의학",
+      "effect": "포켓몬의 스피드 노력치를 1만큼 올려준다. 최대 252까지 올릴 수 있다."
+    },
+    {
+      "name": "토망열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tamato-berry.png",
+      "category": "딸기",
+      "effect": "우정은 증가하지만 속도 노력치는 감소합니다."
+    },
+    {
+      "name": "리체열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tanga-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초효율 벌레형 공격을 약화시킨다."
+    },
+    {
+      "name": "카푸z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tapunium-z.png",
+      "category": "아이템 보관",
+      "effect": "자연의분노를 배우고 있는 섬의 수호신들이 전용 Z기술인 알로라의수호자를 사용할 수 있게 된다."
+    },
+    {
+      "name": "그라운드코트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/terrain-extender.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 소유자의 이동이나 능력으로 인한 지형의 지속 시간을 연장합니다."
+    },
+    {
+      "name": "굵은뼈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/thick-club.png",
+      "category": "아이템 보관",
+      "effect": "큐본이나 마로왁이 들고 있을 때 공격력이 증가합니다."
+    },
+    {
+      "name": "천둥의돌",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/thunder-stone.png",
+      "category": "일반 항목",
+      "effect": "특정 포켓몬 종을 진화시킵니다."
+    },
+    {
+      "name": "타이마볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/timer-ball.png",
+      "category": "포켓볼",
+      "effect": "전투에서 턴이 많을수록 점진적으로 좋아지는 다소 다른 볼입니다."
+    },
+    {
+      "name": "작은버섯",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tiny-mushroom.png",
+      "category": "일반 항목",
+      "effect": "작고 희귀한 버섯입니다. 수집가들이 많이 찾는 버섯입니다."
+    },
+    {
+      "name": "수비의사탕",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tough-candy.png",
+      "category": "의학",
+      "effect": "포켓몬의 방어 능력치를 1 증가시킵니다."
+    },
+    {
+      "name": "수비의사탕l",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tough-candy-l.png",
+      "category": "의학",
+      "effect": "포켓몬의 방어 능력치를 증가시킵니다."
+    },
+    {
+      "name": "수비의사탕xl",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tough-candy-xl.png",
+      "category": "의학",
+      "effect": "포켓몬의 방어 능력치를 증가시킵니다."
+    },
+    {
+      "name": "맹독구슬",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/toxic-orb.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 배틀에서 홀더를 심하게 중독시키는 기괴한 오브이다."
+    },
+    {
+      "name": "맹독플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/toxic-plate.png",
+      "category": "아이템 보관",
+      "effect": "독 계열 기술의 위력이 증가합니다. 아르세우스의 유형을 독으로 변경합니다."
+    },
+    {
+      "name": "휘어진스푼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/twisted-spoon.png",
+      "category": "아이템 보관",
+      "effect": "사이킥 계열 기술의 위력이 증가합니다."
+    },
+    {
+      "name": "마기라스나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/tyranitarite.png",
+      "category": "아이템 보관",
+      "effect": "마기라스를 메가마기라스로 진화시킬 수 있게 해준다."
+    },
+    {
+      "name": "하이퍼볼",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ultra-ball.png",
+      "category": "포켓볼",
+      "effect": "그레이트 볼보다 더 높은 포켓몬 포획률을 제공하는 초고성능 볼입니다."
+    },
+    {
+      "name": "울트라네크로즈마Z",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/ultranecrozium-z.png",
+      "category": "아이템 보관",
+      "effect": "포톤가이저를 배우고 있는 울트라네크로즈마가 전용 Z기술인 하늘을태우는멸망의빛을 사용할 수 있게 된다."
+    },
+    {
+      "name": "이상해꽃나이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/venusaurite.png",
+      "category": "아이템 보관",
+      "effect": "이상해꽃에게 지니게하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종."
+    },
+    {
+      "name": "만능우산",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/wacan-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초효율의 전기 타입 공격을 약화시킵니다."
+    },
+    {
+      "name": "약점보험",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/weakness-policy.png",
+      "category": "아이템 보관",
+      "effect": "초유효 기술로 적중하면 공격력과 특수 공격력이 급격히 상승합니다."
+    },
+    {
+      "name": "서배열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/wepear-berry.png",
+      "category": "딸기",
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "휘핑팝",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/whipped-dream.png",
+      "category": "일반 항목",
+      "effect": "아이템을 들고 거래하면 소용돌이를 진화시킵니다."
+    },
+    {
+      "name": "하얀규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/white-apricorn.png",
+      "category": "일반 항목",
+      "effect": "하얀 살구. 아무 냄새도 나지 않습니다."
+    },
+    {
+      "name": "하양비드로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/white-flute.png",
+      "category": "일반 항목",
+      "effect": "하얀 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "하양허브",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/white-herb.png",
+      "category": "아이템 보관",
+      "effect": "포켓몬이 들고 있는 아이템. 전투에서 낮아진 스탯을 회복한다. 한 번만 사용할 수 있다."
+    },
+    {
+      "name": "광각렌즈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/wide-lens.png",
+      "category": "아이템 보관",
+      "effect": "움직임의 정확도를 높입니다."
+    },
+    {
+      "name": "위키열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/wiki-berry.png",
+      "category": "딸기",
+      "effect": "HP가 낮으면 회복되지만 혼란을 일으킬 수 있습니다."
+    },
+    {
+      "name": "박식안경",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/wise-glasses.png",
+      "category": "아이템 보관",
+      "effect": "특수 범주 기술의 위력을 증가시킵니다."
+    },
+    {
+      "name": "잘-맞히기",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-accuracy.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 정확도를 높입니다."
+    },
+    {
+      "name": "잘-맞히기2",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-accuracy-2.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 정확도를 급격히 높입니다."
+    },
+    {
+      "name": "잘-맞히기3",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-accuracy-3.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 정확도를 크게 높입니다."
+    },
+    {
+      "name": "잘-맞히기6",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-accuracy-6.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 정확도를 엄청나게 높입니다."
+    },
+    {
+      "name": "플러스파워",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-attack.png",
+      "category": "전투 아이템",
+      "effect": "전투에서 포켓몬의 공격력을 높입니다."
+    },
+    {
+      "name": "플러스파워2",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-attack-2.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 공격력을 급격히 올린다."
+    },
+    {
+      "name": "플러스파워3",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-attack-3.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 공격력을 대폭 높입니다."
+    },
+    {
+      "name": "플러스파워6",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-attack-6.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 공격력을 엄청나게 높입니다."
+    },
+    {
+      "name": "디펜드업2",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-defense.png",
+      "category": "전투 아이템",
+      "effect": "전투에서 포켓몬의 방어력을 높입니다."
+    },
+    {
+      "name": "디펜드업3",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-defense-2.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 방어력을 급격히 높인다."
+    },
+    {
+      "name": "디펜드업6",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-defense-3.png",
+      "category": "전투 아이템",
+      "effect": "전투에서 포켓몬의 방어력을 대폭 높입니다."
+    },
+    {
+      "name": "디펜드업",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-defense-6.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 방어력을 엄청나게 높입니다."
+    },
+    {
+      "name": "스피드업2",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-speed-2.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 속도를 급격히 높입니다."
+    },
+    {
+      "name": "스피드업3",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-speed-3.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 속도를 크게 높입니다."
+    },
+    {
+      "name": "스피드업6",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/x-speed-6.png",
+      "category": "전투 아이템",
+      "effect": "배틀에서 포켓몬의 속도를 엄청나게 높입니다."
+    },
+    {
+      "name": "플카열매",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yache-berry.png",
+      "category": "딸기",
+      "effect": "소유 포켓몬에 대한 초강력 얼음 속성 공격을 약화시킵니다."
+    },
+    {
+      "name": "노랑규토리",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-apricorn.png",
+      "category": "일반 항목",
+      "effect": "노란색 살구. 상쾌한 향이 난다."
+    },
+    {
+      "name": "노랑비드로",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-flute.png",
+      "category": "일반 항목",
+      "effect": "노란색 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
+    },
+    {
+      "name": "진노랑꿀",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-nectar.png",
+      "category": "아이템 보관",
+      "effect": "멜레멜레 초원에서 얻은 꽃의 꿀. 특정 포켓몬 종의 형태를 바꾼다."
+    },
+    {
+      "name": "노랑꽃잎",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-scarf.png",
+      "category": "일반 항목",
+      "effect": "대회에서 보유자의 강인한 면모를 높입니다."
+    },
+    {
+      "name": "노랑밴드",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-shard.png",
+      "category": "일반 항목",
+      "effect": "작은 노란색 파편. 오래 전에 만들어진 일종의 도구에서 나온 것 같습니다."
+    },
+    {
+      "name": "우뢰플레이트",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/zap-plate.png",
+      "category": "아이템 보관",
+      "effect": "전기 타입 기술의 위력이 증가합니다. 아르세우스의 타입을 전기 타입으로 변경합니다."
+    },
+    {
+      "name": "키토산",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/zinc.png",
+      "category": "의학",
+      "effect": "특수 방어 노력치가 10 증가합니다."
+    },
+    {
+      "name": "포커스렌즈",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/zoom-lens.png",
+      "category": "아이템 보관",
+      "effect": "홀더가 목표물을 따라 이동하면 이동의 정확도가 높아집니다."
+    }
+  ]
