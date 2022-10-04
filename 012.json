@@ -79,9 +79,9 @@
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/011.png",
 "type":"MIDDLE",
 "requirement":"Level 7"}],"nextEvolutions":[],"superEvolutions":[{"name":"거다이맥스 버터플",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/012_거다이맥스_1.png",
-"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/012_거다이맥스_1.png",
-"type":"거다이맥스"}],"baseStats":{"hp":60,"attack":45,"defense":50,"spAtk":90,"spDef":80,"speed":70,"total":395},"cards":[{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/012_gigantamax_1.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/012_gigantamax_1.png",
+"type":"GIGANTAMAX"}],"baseStats":{"hp":60,"attack":45,"defense":50,"spAtk":90,"spDef":80,"speed":70,"total":395},"cards":[{
 "number":"190",
 "name":"버터플 VMAX",
 "expansionName":"Darkness Ablaze",
