@@ -353,6 +353,24 @@
     "generation": "GENERATION_I"
     },
     {
+    "number": "019",
+    "name": "꼬렛",
+    "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/019.png",
+    "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/019.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/019/019_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/019/019_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/019/019_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/019/019_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/019/019_back_shiny_animated.gif"
+    },
+    "types": [
+    "Normal"
+    ],
+    "specie": "마우스",
+    "generation": "GENERATION_I"
+    },
+    {
     "number": "020",
     "name": "레트라",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/020.png",
