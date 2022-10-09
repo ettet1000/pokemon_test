@@ -19,7 +19,7 @@
     "generation": "GENERATION_I"
     },
     {
-    "number": "001",
+    "number": "001_",
     "name": "이상해씨2",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/002.png",
     "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/002.png",
@@ -38,7 +38,7 @@
     "generation": "GENERATION_I"
     },
     {
-    "number": "001",
+    "number": "001__",
     "name": "이상해씨3",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/003.png",
     "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/003.png",
