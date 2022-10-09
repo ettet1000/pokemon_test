@@ -1,7 +1,7 @@
 [
     {
     "number": "001",
-    "name": "이상해씨",
+    "name": "이상해씨1",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/001.png",
     "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/001.png",
     "sprites": {
@@ -19,8 +19,8 @@
     "generation": "GENERATION_I"
     },
     {
-    "number": "001_",
-    "name": "이상해풀",
+    "number": "001",
+    "name": "이상해씨2",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/002.png",
     "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/002.png",
     "sprites": {
@@ -38,8 +38,8 @@
     "generation": "GENERATION_I"
     },
     {
-    "number": "001__",
-    "name": "이상해꽃",
+    "number": "001",
+    "name": "이상해씨3",
     "imageUrl": "https://pokedex.alansantos.dev/assets/pokemons/images/003.png",
     "thumbnailUrl": "https://pokedex.alansantos.dev/assets/pokemons/thumbs/003.png",
     "sprites": {
