@@ -15724,5 +15724,20 @@
     ],
     "specie": "쥐",
     "generation": "ALORA"
+    },
+    {
+    "number": "1001",
+    "name": "레트라",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    },
+    "types": [
+    "Dark",
+    "Normal"
+    ],
+    "specie": "쥐",
+    "generation": "ALORA"
     }
     ]
