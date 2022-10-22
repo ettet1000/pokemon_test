@@ -220,7 +220,7 @@
             "accuracy":"100"}
     ],
     "technicalMachine":[
-        {"technicalMachine":1,
+{"technicalMachine":1,
         "move":"박치기",
         "type":"Normal",
         "category":"물리",
