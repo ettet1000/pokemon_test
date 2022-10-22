@@ -15709,5 +15709,20 @@
     ],
     "specie": "애증",
     "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "1000",
+    "name": "꼬렛",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1000.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1000_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1000_main.png"
+    },
+    "types": [
+    "Dark",
+    "Normal"
+    ],
+    "specie": "쥐",
+    "generation": "ALORA"
     }
     ]
