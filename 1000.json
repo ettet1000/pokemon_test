@@ -55,57 +55,57 @@
 "type":"FIRST"},{
 "number":"020",
 "name":"레트라",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/020.png",
-"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/020.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1001.png",
+"thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
 "type":"LAST",
 "requirement":"Level 20, 밤"}],"previousEvolutions":[],"nextEvolutions":[{
 "number":"020",
 "name":"레트라",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/020.png",
-"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/020.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1001.png",
+"thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
 "type":"LAST",
 "requirement":"Level 20, 밤"}],"superEvolutions":[],
 "baseStats":{"hp":30,"attack":56,"defense":35,"spAtk":25,"spDef":35,"speed":72,"total":253},"cards":[{
 "number":"143",
 "name":"꼬렛",
 "expansionName":"Unbroken Bonds",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/SM10_EN_143.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM10_EN_143.png"},{
 "number":"84",
 "name":"알로라 꼬렛",
 "expansionName":"Celestial Storm",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/SM7_EN_84.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM7_EN_84.png"},{
 "number":"81",
 "name":"알로라 꼬렛",
 "expansionName":"Burning Shadows",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/SM3_EN_81.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM3_EN_81.png"},{
 "number":"76",
 "name":"알로라 꼬렛",
 "expansionName":"Sun & Moon",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/SM1_EN_76.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM1_EN_76.png"},{
 "number":"66",
 "name":"꼬렛",
 "expansionName":"XY—Evolutions",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/XY12_EN_66.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/XY12_EN_66.png"},{
 "number":"87",
 "name":"꼬렛",
 "expansionName":"XY—BREAKpoint",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/XY9_EN_87.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/XY9_EN_87.png"},{
 "number":"87",
 "name":"꼬렛",
 "expansionName":"Black & White—Plasma Freeze",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/BW9_EN_87.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/BW9_EN_87.png"},{
 "number":"104",
 "name":"꼬렛",
 "expansionName":"Black & White—Boundaries Crossed",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/BW7_EN_104.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/BW7_EN_104.png"},{
 "number":"64",
 "name":"꼬렛",
 "expansionName":"HS—Undaunted",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/HGSS3_EN_64.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/HGSS3_EN_64.png"},{
 "number":"77",
 "name":"꼬렛",
 "expansionName":"EX Fire Red & Leaf Green",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/1000/EX6_EN_77.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/1000.mp3",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/EX6_EN_77.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/019.mp3",
 "moves":{"levelUp":[{"level":1,
 "category":"물리",
 "move":"몸통박치기",
